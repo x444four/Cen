@@ -1,0 +1,48 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 19 Dec 2022 20:25:58 at https://consultas-masteronline.com/cenco/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://consultas-masteronline.com/cenco/ -O1 "C:\Users\x444f\Desktop\Cenco" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/fonts/avant-grade/itcavantgardestd-bold.eot (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/fonts/avant-grade/itcavantgardestd-bold.woff2 (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/128/files/static/v217/fonts/avant-grade/itcavantgardestd-bold.woff (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/fonts/avant-grade/itcavantgardestd-bold.ttf (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/fonts/avant-grade/itcavantgardestd-bold.svg (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/fonts/avant-grade/itcavantgardestd-demi.eot (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/fonts/avant-grade/itcavantgardestd-demi.woff2 (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/fonts/avant-grade/itcavantgardestd-demi.woff (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/fonts/avant-grade/itcavantgardestd-demi.ttf (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/fonts/avant-grade/itcavantgardestd-demi.svg (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/fonts/avant-grade/itcavantgardestd-book.eot (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/fonts/avant-grade/itcavantgardestd-book.woff2 (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/128/files/static/v217/fonts/avant-grade/itcavantgardestd-book.woff (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/fonts/avant-grade/itcavantgardestd-book.ttf (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/fonts/avant-grade/itcavantgardestd-book.svg (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/Montserrat-Black.ttf (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/Montserrat-BlackItalic.ttf (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/Montserrat-Bold.ttf (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/Montserrat-BoldItalic.ttf (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/Montserrat-ExtraBold.ttf (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/Montserrat-ExtraBoldItalic.ttf (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/Montserrat-ExtraLight.ttf (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/Montserrat-ExtraLightItalic.ttf (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/Montserrat-Italic.ttf (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/Montserrat-Light.ttf (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/Montserrat-LightItalic.ttf (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/Montserrat-Medium.ttf (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/Montserrat-MediumItalic.ttf (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/Montserrat-Regular.ttf (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/Montserrat-SemiBold.ttf (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/Montserrat-SemiBoldItalic.ttf (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/Montserrat-Thin.ttf (from https://consultas-masteronline.com/cenco/)
+20:26:16	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/Montserrat-ThinItalic.ttf (from https://consultas-masteronline.com/cenco/)
+20:26:17	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/128/files/static/v217/bg-body-clear-md.jpg (from https://consultas-masteronline.com/cenco/)
+20:26:17	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/128/files/static/v217/bg-body-clear-sm.jpg (from https://consultas-masteronline.com/cenco/)
+20:26:17	Error: 	"Not Found" (404) at link https://consultas-masteronline.com/cenco/rf_web/r/files/static/v316/loading_V2.gif (from https://consultas-masteronline.com/cenco/)
+20:26:17	Error: 	"Not Found" (404) at link https://i.tarjetacencosud.com.ar/i/themes/theme_42/1.1/css/images/animated-overlay.gif (from https://i.tarjetacencosud.com.ar/i/themes/theme_42/1.1/css/Core.min.css?v=5.1.3.00.05)
+
+HTTrack Website Copier/3.49-2 mirror complete in 19 seconds : 52 links scanned, 14 files written (1420590 bytes overall) [1447806 bytes received at 76200 bytes/sec], 58143 bytes transferred using HTTP compression in 38 files, ratio 39%, 7.8 requests per connection
+(37 errors, 0 warnings, 0 messages)
